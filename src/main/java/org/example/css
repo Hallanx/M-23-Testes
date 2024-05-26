@@ -1,0 +1,14 @@
+projeto/
+        ├── src/
+        │   ├── main/
+        │   │   └── java/
+        │   │       └── com/
+        │   │           └── exemplo/
+        │   │               ├── SeparadorPorSexo.java
+│   │               └── Main.java
+│   └── test/
+        │       └── java/
+        │           └── com/
+        │               └── exemplo/
+        │                   └── SeparadorPorSexoTest.java
+└── pom.xml
